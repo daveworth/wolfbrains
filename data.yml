@@ -166,73 +166,44 @@ people:
     position: Independent Contractor
     start_day: 2015-08-28
     end_day:
-- name: Aubrey Rhodes
-  email:
-  url: http://acrhodes.com/
+- name: David Worth
+  email: fixintheworld@gmail.com
+  url: http://daveworth.github.io/
   education:
-  - undergraduate: Georgia Tech
-    degree: BS Computer Science
-    start_day: 2005-08-01
-    end_day: 2010-05-01
-  jobs:
-  - company: The Zac Team
-    position: IT Intern
-    start_day: 2006-01-01
-    end_day: 2006-05-01
-  - company: TaxSlayer
-    position: Junior Software Dev
-    start_day: 2006-08-01
-    end_day: 2007-01-01
-  - company: Hannon Hill
-    position: Junior Software Dev
-    start_day: 2007-05-01
-    end_day: 2010-04-01
-  - company: Factset Research Systems
-    position: Systems Analyst
-    start_day: 2010-07-01
-    end_day: 2011-07-01
-  - company: HCL / T-Mobile
-    position: Software Devloper
-    start_day: 2011-07-15
-    end_day: 2011-10-1
-  - compay: Highgroove Studios
-    position: Developer and Developer Evangalist
-    start_day: 2011-10-3
-    end_day: 2012-11-1
-  - compay: Big Nerd Ranch
-    position: Director of Consulting Operations
-    start_day: 2012-11-1
-    end_day: 2014-07-15
-  - compay: Blue Bottle Coffee
-    position: Software Developer
-    start_day: 2014-10-1
-    end_day: 2015-02-15
-  - compay: Roadie
-    position: Lead Backend Developer
-    start_day: 2015-03-15
-    end_day: 2015-07-10
-  - compay: Mailchimp
-    position: Software Engineer
-    start_day: 2015-07-20
+  - undergraduate: University of New Mexico
+    degree: BS Mathematics
+    start_day:
     end_day:
-- name: Mike Skalnik
-  email: mike.skalnik@gmail.com
-  url: http://mikeskalnik.com
-  education:
-  - undergraduate: Georgia Tech
-    studied: BS Computer Science
-    start_day: 2008-08-01
-    end_day: 2012-05-22
+  - graduate: University of New Mexico
+    degree: MS Mathematics
+    start_day:
+    end_day:
   jobs:
-  - company: Rails Machine
-    position: Awesomeness Engineer
-    start_day: 2009-09-20
-    end_day: 2011-03-24
+  - company: Linium
+    position: Solutions Engineer
+    start_day: 2007-02-01
+    end_day: 2008-03-31
+  - company: University of Tennessee
+    position: Network Engineer
+    start_day: 2008-04-01
+    end_day: 2011-08-15
   - company: Highgroove Studios
     position: Developer
-    start_day: 2011-03-25
-    end_day: 2012-05-30
-  - company: GitHub
-    position: Developer
-    start_day: 2012-06-01
+    start_day: 2011-08-16
+    end_day: 2012-11-01
+  - company: Big Nerd Ranch
+    position: Developer and Security Engineer
+    start_day: 2012-11-01
+    end_day: 2013-09-10
+  - company: Mandiant / FireEye
+    position: Senior Software Engineer - Malware Analysis
+    start_day; 2013-09-10
+    end_day: 2014-04-10
+  - company: Peak Hosting
+    position: Senior Software Engineer / Engineering Manager
+    start_day: 2014-04-10
+    end_day: 2014-10-15
+  - company: DigitalOcean
+    position: Software Engineer -> Engineering Manager
+    start_day: 2014-10-15
     end_day:
